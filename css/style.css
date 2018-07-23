@@ -221,7 +221,8 @@ header {
       #contact form input:last-child {
         margin-left: 5px; }
     #contact form textarea {
-      width: 580px; }
+      width: 580px;
+      resize: none; }
     #contact form button {
       height: 40px;
       width: 80px;
